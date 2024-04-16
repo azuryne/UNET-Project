@@ -1,2 +1,3 @@
-# UNET-Project
-This is a guided project from Coursera. This project utilizes UNET segmentation to segment a binary class problem. 
+## Binary segmentation using UNET model
+
+UNET Segmentation tutorial
